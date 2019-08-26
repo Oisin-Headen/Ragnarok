@@ -1,5 +1,5 @@
 # Ragnarok
-This is the repo for the Ragnarok Video Game.
+This is the repo for the Ragnarok Video Game. Nothing done here yet
 
 
 Potentially Useful Resources:
